@@ -2,6 +2,9 @@
 
 A daily hydration tracker built with Python and Streamlit for IBCP CRS AI (FA-2).
 
+**Live app (Streamlit):** https://waterbuddy-tracker.streamlit.app/  
+**Web version (Netlify):** https://waterbuddy-hrishitthakkar.netlify.app
+
 The whole screen is the water bottle: as you log drinks, a water layer rises
 up behind the app, with drifting waves and bubbles. Drippy, the droplet mascot,
 cheers you on, and his mood changes as you hit each milestone.
