@@ -1,0 +1,5 @@
+# Netlify settings: publish the web version of WaterBuddy (docs/index.html).
+# The Streamlit version (app.py) needs Python, so it runs on Streamlit Cloud instead.
+[build]
+  publish = "docs"
+  command = ""
